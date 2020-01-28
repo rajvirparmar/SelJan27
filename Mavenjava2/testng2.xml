@@ -4,7 +4,8 @@
   <test name="Test">
     <classes>
       <class name="qaclickacademy.Mavenjava2.SeleniumTest"/>
-
+      <class name="qaclickacademy.Mavenjava2.AppiumTest"/>
+      <class name="qaclickacademy.Mavenjava2.OpenBrowser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
